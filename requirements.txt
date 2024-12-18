@@ -1,0 +1,5 @@
+beautifulsoup4
+numpy
+pandas
+requests
+slack_sdk
